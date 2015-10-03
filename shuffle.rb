@@ -4,7 +4,7 @@
 # 
 # The songs to be shuffled are stored in a 
 # folder in the same directory as the program
-#
+
 def shuffle(array)
   playlist = []
   count = 0
